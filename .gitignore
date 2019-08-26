@@ -1,0 +1,13 @@
+.vs/
+XamarinSignalR/XamarinSignalR.Android/bin/
+XamarinSignalR/XamarinSignalR.Android/obj/
+XamarinSignalR/XamarinSignalR/obj/
+XamarinSignalRClient/obj/
+XamarinSignalRCore/bin/
+XamarinSignalRCore/obj/Debug/
+XamarinSignalRCore/obj/
+XamarinSignalRCoreTest/bin/
+XamarinSignalRCoreTest/obj/
+XamarinSignalRClient/bin/
+XamarinSignalR/XamarinSignalR/bin/
+XamarinSignalR/XamarinSignalR.iOS/obj/
